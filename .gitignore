@@ -1,0 +1,22 @@
+*
+!.gitignore
+!pratik.txt
+Desktop/
+Downloads/
+AppData/
+Thumbs.db
+.DS_Store
+*.log
+*.tmp# Track only pratik.txt; ignore everything else by default
+*
+!.gitignore
+!pratik.txt
+
+# Extra safety: common system folders/files (redundant but explicit)
+Desktop/
+Downloads/
+AppData/
+Thumbs.db
+.DS_Store
+*.log
+*.tmp
